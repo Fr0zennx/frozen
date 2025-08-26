@@ -1,2 +1,2 @@
 # frozen
-sui workshop
+sui blockchain workshop
